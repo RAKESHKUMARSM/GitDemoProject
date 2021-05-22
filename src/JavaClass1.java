@@ -8,6 +8,7 @@ public class JavaClass1 {
 			System.out.println("Even number");
 
 	System.out.println("Multiplication"+ "10");
+	System.out.println("My Name is Rakesh Kumar S M");
 	}
 
 
