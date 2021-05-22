@@ -6,5 +6,9 @@ public class JavaClass1 {
 			System.out.println("Odd number");
 		else
 			System.out.println("Even number");
+
+	System.out.println("Multiplication"+ "10");
 	}
+
+
 }
