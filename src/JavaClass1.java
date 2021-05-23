@@ -11,6 +11,8 @@ public class JavaClass1 {
 	System.out.println("My Name is Rakesh Kumar S M");
 	System.out.println("I play a lot of cricket");
 	System.out.println("I play musical instruments as well");
+	System.out.println("I love fishes");
+	System.out.println("I love to swim");
 	}
 
 
